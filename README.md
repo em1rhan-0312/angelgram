@@ -6,6 +6,8 @@
 
 <p align="center"><b>Black, white, and a touch of red. The power of Telegram, in your own style.</b></p>
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/emirhan0312)
+
 ---
 
 **Angelgram** is an Android messaging app built on the Telegram infrastructure. You log in using your existing Telegram account; all your chats, groups, channels, and files come along with you.
