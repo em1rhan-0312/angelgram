@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="preview/splash.gif" width="220" alt="Angelgram açılış animasyonu">
+  <img src="preview/logo.png" width="160" alt="Angelgram logosu">
 </p>
 
 <h1 align="center">Angelgram</h1>
@@ -28,7 +28,17 @@
 - Birden fazla hesap
 - Tüm cihazlarında senkron mesajlaşma
 
-## Görünüm
+## Ekran görüntüleri
+
+<!-- Uygulama içi görselleri preview/screenshots/ klasörüne ekle ve aşağıdaki satırı aç:
+<p align="center">
+  <img src="preview/screenshots/1.png" width="200"> <img src="preview/screenshots/2.png" width="200"> <img src="preview/screenshots/3.png" width="200">
+</p>
+-->
+
+*Yakında.*
+
+## Marka
 
 <p align="center">
   <img src="preview/wordmark.png" width="320" alt="Angelgram yazı logosu">

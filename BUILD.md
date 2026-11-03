@@ -6,7 +6,7 @@ GitHub Actions her derlemede resmi Telegram kodunu sabit bir sürümden (`3de37c
 ```
 .github/workflows/build.yml   derleme tarifi
 angelgram-telegram.patch      tüm değişiklikler
-preview/                      önizleme görselleri
+preview/                      logo, yazı logosu ve ekran görüntüleri
 ```
 
 ## APK üretmek
