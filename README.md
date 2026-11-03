@@ -1,53 +1,49 @@
 <p align="center">
-  <img src="preview/logo.png" width="160" alt="Angelgram logosu">
+  <img src="preview/logo.png" width="160" alt="Angelgram">
 </p>
 
 <h1 align="center">Angelgram</h1>
 
-<p align="center"><b>Siyah, beyaz ve biraz kırmızı. Telegram'ın gücü, kendi tarzınla.</b></p>
+<p align="center"><b>Black, white, and a touch of red. The power of Telegram, in your own style.</b></p>
 
 ---
 
-**Angelgram**, Telegram altyapısı üzerinde çalışan, koyu temalı bir Android mesajlaşma uygulamasıdır. Mevcut Telegram hesabınla giriş yaparsın; sohbetlerin, gruplarının, kanalların ve dosyaların olduğu gibi seninle gelir.
+**Angelgram** is an Android messaging app built on the Telegram infrastructure. You log in using your existing Telegram account; all your chats, groups, channels, and files come along with you.
 
-## Neden Angelgram?
+## Why Angelgram?
 
-- **Koyu ve sade.** Varsayılan tema siyah-beyaz, vurgular kırmızı. Gözü yormaz, gece rahat kullanılır.
-- **Kendine özgü kimlik.** Konuşma balonunun içinde kanatlar: kendi logosu, kendi adı ve kendi açılış animasyonu var.
-- **Hızlı açılış.** Yaklaşık bir saniyelik açılış animasyonundan sonra doğrudan giriş ekranı. Karşılama turu yok.
-- **Tanıdık arayüz.** Telegram'da alıştığın her şey yerinde. Yeniden öğrenmek gerekmez.
+- **Dark and minimalist.** The default theme features black and white with red accents. It’s easy on the eyes and comfortable to use at night.
+- **A unique identity.** Wings inside a speech bubble—it has its own logo, its own name, and its own custom launch animation.
+- **Fast startup.** Go straight to your chats after a brief, one-second launch animation. No introductory tours.
+- **A familiar interface.** Everything you’re used to in Telegram is right where it should be. There’s nothing new to learn. ## Everything you get with Telegram
 
-## Telegram'dan gelen her şey
+- Unlimited chats, groups, and channels
+- Large files, photos, and videos
+- Voice and video calls
+- Secret chats
+- Stickers, emojis, and reactions
+- Stories
+- Multiple accounts
+- Synchronized messaging across all your devices
 
-- Sınırsız sohbet, grup ve kanal
-- Büyük dosyalar, fotoğraflar ve videolar
-- Sesli ve görüntülü aramalar
-- Gizli sohbetler
-- Çıkartmalar, emojiler ve tepkiler
-- Hikâyeler
-- Birden fazla hesap
-- Tüm cihazlarında senkron mesajlaşma
+## Screenshots
 
-## Ekran görüntüleri
-
-<!-- Uygulama içi görselleri preview/screenshots/ klasörüne ekle ve aşağıdaki satırı aç:
+<!-- Add in-app images to the preview/screenshots/ folder and uncomment the line below:
 <p align="center">
   <img src="preview/screenshots/1.png" width="200"> <img src="preview/screenshots/2.png" width="200"> <img src="preview/screenshots/3.png" width="200">
 </p>
 -->
 
-*Yakında.*
+*Coming soon.*
 
-## Marka
+## Branding
 
 <p align="center">
-  <img src="preview/wordmark.png" width="320" alt="Angelgram yazı logosu">
+  <img src="preview/wordmark.png" width="320" alt="Angelgram wordmark">
 </p>
 
-## Teknik notlar
+## Technical notes
 
-Angelgram, resmi açık kaynaklı [Telegram Android](https://github.com/DrKLO/Telegram) istemcisinin üzerine kurulu bir istemcidir ve Telegram API'sini kendi API anahtarlarıyla kullanır. Telegram ile bağlantılı veya Telegram tarafından onaylanmış bir ürün değildir.
+Angelgram is a client built upon the official open-source [Telegram Android](https://github.com/DrKLO/Telegram) client, utilizing the Telegram API with its own API keys. It is neither affiliated with nor endorsed by Telegram.
 
-Telegram Android GPLv2 lisanslıdır; bu proje de aynı lisansa tabidir.
-
-Derleme ve kurulum bilgileri için [BUILD.md](BUILD.md) dosyasına bak.
+Telegram Android is licensed under the GPLv2; this project is subject to the same license.
